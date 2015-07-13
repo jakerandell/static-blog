@@ -69,7 +69,7 @@ params:
   author: "Jake Randell"
   authorlocation: "Rochester, NY"
   # authorwebsite: "http://vjeantet.fr"
-  bio: "my bio"
+  bio: "A designer, developer and general crazy person. Loves to go way off the deep end with certain hobbies. And kitty cats."
   logo: "images/mark.png"
   googleAnalyticsUserID: "UA-63996010-1"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
