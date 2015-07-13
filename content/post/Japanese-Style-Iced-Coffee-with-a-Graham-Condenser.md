@@ -7,6 +7,8 @@ categories:
   - "coffee"
   - "experiments"
 slug: "japanese-style-iced-coffee-with-a-graham-condenser"
+aliases:
+  - /2015/06/22/Japanese-Style-Iced-Coffee-with-a-Graham-Condenser
 ---
 ## Synopsis
 So, I've always enjoyed a good [Japanese Style Iced Coffee](http://petergiuliano.tumblr.com/post/22177089634/why-you-should-stop-cold-brewing-and-use-the), the benefits are multiple. A hot extraction means you don't have to endure 12-24 long hours of cold brewing, but you still end up with a nice chilled end product. However, I was never a fan of brewing directly on to a body of ice in order to cool it down. Having to adjust the brew ratio to accommodate the ice that would melt in the process always seemed like an imperfect method. There had to be a better way.
