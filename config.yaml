@@ -1,0 +1,80 @@
+archetypedir: "archetype"
+# hostname (and path) to the root eg. http://spf13.com/
+baseurl: http://randell.coffee/
+# include content marked as draft
+buildDrafts: false
+# include content with publishdate in the future
+buildFuture: false
+# enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
+relativeURLs: false
+canonifyURLs: false
+# config file (default is path/config.yaml|json|toml)
+config: "config.yaml"
+contentdir: "content"
+dataDir: "data"
+defaultExtension: "html"
+defaultLayout: "post"
+# filesystem path to write files to
+destination: ""
+disableLiveReload: false
+# Do not build RSS files
+disableRSS: false
+# Do not build Sitemap file
+disableSitemap: false
+# edit new content with this editor, if provided
+editor: ""
+footnoteAnchorPrefix: ""
+footnoteReturnLinkContents: ""
+languageCode: "en-us"
+layoutdir: "layouts"
+# Enable Logging
+log: false
+# Log File path (if set, logging enabled automatically)
+logFile: ""
+# "yaml", "toml", "json"
+metaDataFormat: "yaml"
+newContentEditor: ""
+# Don't sync modification time of files
+noTimes: false
+paginate: 10
+paginatePath: "page"
+permalinks:
+# Pluralize titles in lists using inflect
+pluralizeListTitles: true
+publishdir: "public"
+# color-codes for highlighting derived from this style
+pygmentsStyle: "monokai"
+# true: use pygments-css or false: color-codes directly
+pygmentsUseClasses: false
+sitemap: ""
+# filesystem path to read files relative from
+source: ""
+staticdir: "static"
+# display memory and timing of different steps of the program
+stepAnalysis: false
+# theme to use (located in /themes/THEMENAME/)
+theme: "casper-mod"
+title: Randell Coffee
+# if true, use /filename.html instead of /filename/
+uglyURLs: false
+# verbose output
+verbose: false
+# verbose logging
+verboseLog: false
+# watch filesystem for changes and recreate as needed
+watch: false
+params:
+  description: "A Journey Through Coffee & Space"
+  cover: "images/beans.jpg"
+  author: "Jake Randell"
+  authorlocation: "Rochester, NY"
+  # authorwebsite: "http://vjeantet.fr"
+  bio: "my bio"
+  logo: "images/mark.png"
+  googleAnalyticsUserID: "UA-63996010-1"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink: "http://feeds.feedburner.com/..."
+  # githubName: "jakerandell"
+  # twitterName: "jakewaando"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport: false
